@@ -3,15 +3,17 @@
   Student Project Allocation System
 A web application for listing project topics, collecting student preferences, allocating guides and displaying project assignments.
 
-2. Team Members
+2. Team Members:
    Ashwanth    2620030405
+   
    Viloch      2620030127
+   
    Eshanth     2620030131
 
-3. Supervisor
+4. Supervisor:
    Mrs. Surekha
 
-4. Abstract
+5. Abstract
 
 The Student Project Allocation System is a web application that simplifies the allocation of academic projects in a department. When allocation is done by hand, it often leads to confusion, duplicate allocations and delays. In this system, faculty list project topics with guide details and available slots, and students submit their preferences in order of priority. The system then allocates a project and guide to each student based on their preferences and availability, without exceeding any slot limit.
 
